@@ -5,12 +5,12 @@
 ** Login   <ol@epitech.net>
 ** 
 ** Started on  Tue Aug  8 12:58:24 2000 Charlie Root
-** Last update Tue Sep 25 15:56:22 2001 Charlie Root
+** Last update Wed May  1 13:36:59 2024 Enzo Degraeve
 */
 
 
 
 int	mlx_int_do_nothing(void *param)
 {
-  
+	return (0);
 }
